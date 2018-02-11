@@ -1,0 +1,6 @@
+[package]
+name = "get_avatar_folge"
+version = "0.1.0"
+authors = ["gabr <arkadiuszgabrys@gmail.com>"]
+
+[dependencies]
